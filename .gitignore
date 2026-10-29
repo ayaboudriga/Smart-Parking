@@ -1,0 +1,6 @@
+/vendor/
+/var/
+/.env
+/.env.*
+!/.env.example
+/node_modules/
